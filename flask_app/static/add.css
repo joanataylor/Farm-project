@@ -1,0 +1,25 @@
+body {
+  background-image: url('flask_app/static/imgs/images.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.container{
+  margin: 100px auto;
+  /* height: 100vh; */
+  color: black;
+  width: 330px;
+  background-color: rgba(245, 245, 245, 0.82);
+  border-radius: 8px;
+  text-align: center;
+}
+
+.register{
+  width: 300px;
+  padding: 20px;
+}
+
+.background-pic{
+  background-image:  url('/flask_app/static/imgs/bull-staring.jpg');
+}
